@@ -4,7 +4,7 @@ Smart note-taking made simple. Transform your thoughts into lasting memories wit
 
 ## Live Demo
 
-Visit the live application: [Memoria Hub](https://your-vercel-url.vercel.app)
+Visit the live application: [Memoria Hub](https://note-making-app-taupe.vercel.app/)
 
 ## Features
 
